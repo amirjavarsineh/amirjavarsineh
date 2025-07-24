@@ -2,7 +2,6 @@
 
 <div align="center">
 
-  [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=yellow)](https://amirjavarsineh.ir)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amir-javarsineh-5352aa1b6/)
 
 </div>
@@ -35,22 +34,7 @@
 
 </details>
 
-![](https://capsule-render.vercel.app/api?type=venom&height=150&text=📊%20GitHub%20Stats&fontSize=40&color=0:32CD32,100:006400&stroke=006400)
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amirjavarsineh&show_icons=true&theme=graywhite" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amirjavarsineh&layout=compact&theme=graywhite" alt="Top Languages" height="170"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amirjavarsineh&theme=graywhite" alt="GitHub Streak" height="170"/>
-</div>
-
-<h2 align="center">💡 Random Dev Quote</h2>
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light" alt="Random Dev Quote"/>
-</div>
 
 ![](https://capsule-render.vercel.app/api?type=transparent&height=100&text=👩‍💻%20Amir%20Javarsineh&fontSize=50&fontColor=9370DB&desc=A%20passionate%20developer%20exploring%20the%20digital%20frontier&descSize=20&descAlignY=75&descAlign=60)
 
@@ -61,7 +45,6 @@
 
 <div align="center">
 
-  [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=yellow)](https://amirjavarsineh.ir)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amir-javarsineh-5352aa1b6/)
 
 </div>
