@@ -3,6 +3,7 @@
 <div align="center">
 
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amir-javarsineh-5352aa1b6/)
+  [![gmail](https://img.shields.io/badge/gmail-1DA1F2?style=for-the-badge&logo=gmail&logoColor=white)](https://amirjavarsineh7@gmail.com/)
 
 </div>
 
@@ -46,7 +47,7 @@
 <div align="center">
 
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amir-javarsineh-5352aa1b6/)
-
+[![gmail](https://img.shields.io/badge/gmail-1DA1F2?style=for-the-badge&logo=gmail&logoColor=white)](https://amirjavarsineh7@gmail.com/)
 </div>
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=100&section=footer)
