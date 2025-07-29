@@ -26,10 +26,6 @@
 
 
 
-<div align="center">
-  <p><i>Bye bye! (Unless you found a bug… then I was never here.)</i></p>
-  <br>
-</div>
 
 
 
