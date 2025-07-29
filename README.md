@@ -17,7 +17,7 @@
 <details open>
   <summary><h3>🎯 Core Skills</h3></summary>
 
-  ![Python](https://img.shields.io/badge/-Python-blue?style=for-the-badge&logo=python&logoColor=white) ![Object Oriented Programming (OOP)](https://img.shields.io/badge/-Object_Oriented_Programming_(OOP)-blue?style=for-the-badge&logo=object-oriented-programming-(oop)&logoColor=white) ![Machine Learning](https://img.shields.io/badge/-Machine_Learning-blue?style=for-the-badge&logo=machine-learning&logoColor=white) ![Deep learning](https://img.shields.io/badge/-Deep_learning-blue?style=for-the-badge&logo=deep-learning&logoColor=white) ![Data Structures](https://img.shields.io/badge/-Data_Structures-blue?style=for-the-badge&logo=data-structures&logoColor=white)
+  ![Python](https://img.shields.io/badge/-Python-blue?style=for-the-badge&logo=python&logoColor=white) ![Object Oriented Programming (OOP)](https://img.shields.io/badge/-Object_Oriented_Programming_(OOP)-blue?style=for-the-badge&logo=object-oriented-programming-(oop)&logoColor=white)  ![Data Structures](https://img.shields.io/badge/-Data_Structures-blue?style=for-the-badge&logo=data-structures&logoColor=white)
 
 </details>
 
