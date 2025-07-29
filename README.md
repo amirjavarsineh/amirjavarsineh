@@ -18,6 +18,7 @@
   <summary><h3>🎯  Skills</h3></summary>
 
   ![Python](https://img.shields.io/badge/-Python-blue?style=for-the-badge&logo=python&logoColor=white) ![Object Oriented Programming (OOP)](https://img.shields.io/badge/-Object_Oriented_Programming_(OOP)-blue?style=for-the-badge&logo=object-oriented-programming-(oop)&logoColor=white)  ![Data Structures](https://img.shields.io/badge/-Data_Structures-blue?style=for-the-badge&logo=data-structures&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-blue?style=for-the-badge&logo=mysql&logoColor=white)  ![HTML5](https://img.shields.io/badge/-HTML5-blue?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-blue?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-blue?style=for-the-badge&logo=javascript&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-blue?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-blue?style=for-the-badge&logo=bootstrap&logoColor=white) ![SASS](https://img.shields.io/badge/-SASS-blue?style=for-the-badge&logo=sass&logoColor=white) ![AJAX](https://img.shields.io/badge/-AJAX-blue?style=for-the-badge&logo=ajax&logoColor=white) ![jQuery](https://img.shields.io/badge/-jQuery-blue?style=for-the-badge&logo=jquery&logoColor=white)
+   ![Git](https://img.shields.io/badge/-git-blue?style=for-the-badge&logo=python&logoColor=white)
 
 </details>
 
