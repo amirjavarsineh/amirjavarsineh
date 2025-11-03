@@ -2,8 +2,6 @@
 
 <div align="center">
 
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amir-javarsineh-5352aa1b6/)
-
 
 <div align="center">
   <a href="https://www.linkedin.com/in/amir-javarsineh-5352aa1b6/" target="_blank">
