@@ -77,10 +77,8 @@
 ###
 
 <div align="center">
-  <img 
-  src="https://streak-stats.demolab.com?user=amirjavarsineh&theme=dark&hide_border=false&border_radius=5" 
-  alt="GitHub Streak Stats" 
-/>
+  <!-- نسخه جایگزین -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=amirjavarsineh&theme=dark" />
 </div>
 
 ###
