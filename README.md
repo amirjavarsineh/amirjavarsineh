@@ -78,8 +78,8 @@
 
 <div align="center">
   <img 
-  src="https://github-readme-stats.vercel.app/api?username=amirjavarsineh&show_icons=true&theme=dark" 
-  alt="GitHub Stats" 
+  src="https://streak-stats.demolab.com?user=amirjavarsineh&theme=dark&hide_border=false&border_radius=5" 
+  alt="GitHub Streak Stats" 
 />
 </div>
 
