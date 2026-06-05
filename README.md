@@ -64,9 +64,8 @@
   <img src="https://img.shields.io/badge/Sass-CC6699?logo=sass&logoColor=black&style=for-the-badge" height="40" alt="sass logo"  />
  
   <img src="https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=white&style=for-the-badge" height="40" alt="jquery logo"  />
-  
-  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" height="40" alt="docker logo"  />
-  <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge" height="40" alt="linux logo"  />
+
+
 
 
 
