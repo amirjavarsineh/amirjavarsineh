@@ -67,96 +67,34 @@
   
   <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" height="40" alt="docker logo"  />
   <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge" height="40" alt="linux logo"  />
-  <!-- Cisco -->
-<img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" height="40" />
-
-<!-- CCNA -->
-<img src="https://img.shields.io/badge/CCNA-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" height="40" />
-
-<!-- Network+ -->
-<img src="https://img.shields.io/badge/Network%2B-EA3E23?style=for-the-badge&logo=comptia&logoColor=white" height="40" />
-
-<!-- Security+ -->
-<img src="https://img.shields.io/badge/Security%2B-EA3E23?style=for-the-badge&logo=comptia&logoColor=white" height="40" />
-
-<!-- Wireshark -->
-<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" height="40" />
 
 
-<!-- Ubuntu -->
-<img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" height="40" />
 
-<!-- Kali -->
-<img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" height="40" />
 
-<!-- VMware -->
-<img src="https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white" height="40" />
-
-<!-- VirtualBox -->
-<img src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white" height="40" />
-
-<!-- GNS3 -->
-<img src="https://img.shields.io/badge/GNS3-2C5AA0?style=for-the-badge&logoColor=white" height="40" />
-
-<!-- EVE-NG -->
-<img src="https://img.shields.io/badge/EVE--NG-0A66C2?style=for-the-badge&logoColor=white" height="40" />
-
-<!-- Packet Tracer -->
-<img src="https://img.shields.io/badge/Packet_Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" height="40" />
-
-<!-- Nmap -->
-<img src="https://img.shields.io/badge/Nmap-004170?style=for-the-badge&logoColor=white" height="40" />
-
-<!-- TCP/IP -->
+<!-- Networking -->
+<img src="https://img.shields.io/badge/Networking-0078D4?style=for-the-badge&logo=cisco&logoColor=white" height="40" />
 <img src="https://img.shields.io/badge/TCP%2FIP-00599C?style=for-the-badge&logoColor=white" height="40" />
-
-<!-- DNS -->
-<img src="https://img.shields.io/badge/DNS-4285F4?style=for-the-badge&logoColor=white" height="40" />
-
-<!-- DHCP -->
-<img src="https://img.shields.io/badge/DHCP-0078D4?style=for-the-badge&logoColor=white" height="40" />
-
-<!-- VLAN -->
-<img src="https://img.shields.io/badge/VLAN-0066CC?style=for-the-badge&logoColor=white" height="40" />
-
-<!-- Routing -->
-<img src="https://img.shields.io/badge/Routing-009688?style=for-the-badge&logoColor=white" height="40" />
-
-<!-- Switching -->
-<img src="https://img.shields.io/badge/Switching-1565C0?style=for-the-badge&logoColor=white" height="40" />
-
-<!-- OSPF -->
-<img src="https://img.shields.io/badge/OSPF-00897B?style=for-the-badge&logoColor=white" height="40" />
-
-<!-- BGP -->
-<img src="https://img.shields.io/badge/BGP-6A1B9A?style=for-the-badge&logoColor=white" height="40" />
-
-<!-- IPv6 -->
+<img src="https://img.shields.io/badge/IPv4-1976D2?style=for-the-badge&logoColor=white" height="40" />
 <img src="https://img.shields.io/badge/IPv6-FF6F00?style=for-the-badge&logoColor=white" height="40" />
-
-<!-- VPN -->
+<img src="https://img.shields.io/badge/Subnetting-4CAF50?style=for-the-badge&logoColor=white" height="40" />
+<img src="https://img.shields.io/badge/Routing-009688?style=for-the-badge&logoColor=white" height="40" />
+<img src="https://img.shields.io/badge/Switching-1565C0?style=for-the-badge&logoColor=white" height="40" />
+<img src="https://img.shields.io/badge/VLAN-0066CC?style=for-the-badge&logoColor=white" height="40" />
+<img src="https://img.shields.io/badge/STP-5E35B1?style=for-the-badge&logoColor=white" height="40" />
+<img src="https://img.shields.io/badge/RSTP-512DA8?style=for-the-badge&logoColor=white" height="40" />
+<img src="https://img.shields.io/badge/EIGRP-0D47A1?style=for-the-badge&logoColor=white" height="40" />
+<img src="https://img.shields.io/badge/OSPF-00897B?style=for-the-badge&logoColor=white" height="40" />
+<img src="https://img.shields.io/badge/BGP-6A1B9A?style=for-the-badge&logoColor=white" height="40" />
+<img src="https://img.shields.io/badge/MPLS-283593?style=for-the-badge&logoColor=white" height="40" />
+<img src="https://img.shields.io/badge/NAT-00838F?style=for-the-badge&logoColor=white" height="40" />
+<img src="https://img.shields.io/badge/DHCP-0078D4?style=for-the-badge&logoColor=white" height="40" />
+<img src="https://img.shields.io/badge/DNS-4285F4?style=for-the-badge&logoColor=white" height="40" />
 <img src="https://img.shields.io/badge/VPN-283593?style=for-the-badge&logoColor=white" height="40" />
 
-<!-- Firewall -->
-<img src="https://img.shields.io/badge/Firewall-D32F2F?style=for-the-badge&logoColor=white" height="40" />
 
-<!-- Cyber Security -->
-<img src="https://img.shields.io/badge/Cyber_Security-000000?style=for-the-badge&logo=hackthebox&logoColor=9FEF00" height="40" />
 
-<!-- Active Directory -->
-<img src="https://img.shields.io/badge/Active_Directory-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" height="40" />
 
-<!-- Windows Server -->
-<img src="https://img.shields.io/badge/Windows_Server-0078D4?style=for-the-badge&logo=windows&logoColor=white" height="40" />
 
-<!-- Azure -->
-<img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" height="40" />
-
-<!-- AWS -->
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900" height="40" />
-
-<!-- Docker -->
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" height="40" />
 </div>
 
 ###
