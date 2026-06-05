@@ -84,14 +84,53 @@
 <img src="https://img.shields.io/badge/RSTP-512DA8?style=for-the-badge&logoColor=white" height="40" />
 <img src="https://img.shields.io/badge/EIGRP-0D47A1?style=for-the-badge&logoColor=white" height="40" />
 <img src="https://img.shields.io/badge/OSPF-00897B?style=for-the-badge&logoColor=white" height="40" />
-<img src="https://img.shields.io/badge/BGP-6A1B9A?style=for-the-badge&logoColor=white" height="40" />
-<img src="https://img.shields.io/badge/MPLS-283593?style=for-the-badge&logoColor=white" height="40" />
 <img src="https://img.shields.io/badge/NAT-00838F?style=for-the-badge&logoColor=white" height="40" />
 <img src="https://img.shields.io/badge/DHCP-0078D4?style=for-the-badge&logoColor=white" height="40" />
 <img src="https://img.shields.io/badge/DNS-4285F4?style=for-the-badge&logoColor=white" height="40" />
 <img src="https://img.shields.io/badge/VPN-283593?style=for-the-badge&logoColor=white" height="40" />
 
 
+<img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" height="40" />
+<img src="https://img.shields.io/badge/CCNA-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" height="40" />
+
+<!-- CompTIA -->
+<img src="https://img.shields.io/badge/Network%2B-EA3E23?style=for-the-badge&logo=comptia&logoColor=white" height="40" />
+<img src="https://img.shields.io/badge/Security%2B-EA3E23?style=for-the-badge&logo=comptia&logoColor=white" height="40" />
+
+<!-- Tools -->
+<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" height="40" />
+<img src="https://img.shields.io/badge/Nmap-004170?style=for-the-badge&logoColor=white" height="40" />
+<img src="https://img.shields.io/badge/Tcpdump-000000?style=for-the-badge&logoColor=white" height="40" />
+
+
+<!-- Virtualization -->
+<img src="https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white" height="40" />
+<img src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white" height="40" />
+<img src="https://img.shields.io/badge/Hyper--V-0078D7?style=for-the-badge&logo=microsoft&logoColor=white" height="40" />
+
+<!-- Labs -->
+<img src="https://img.shields.io/badge/GNS3-2C5AA0?style=for-the-badge&logoColor=white" height="40" />
+<img src="https://img.shields.io/badge/Packet_Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" height="40" />
+
+<!-- Operating Systems -->
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" height="40" />
+<img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" height="40" />
+<img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" height="40" />
+<img src="https://img.shields.io/badge/Windows_Server-0078D4?style=for-the-badge&logo=windows&logoColor=white" height="40" />
+
+<!-- Microsoft -->
+<img src="https://img.shields.io/badge/Active_Directory-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" height="40" />
+<img src="https://img.shields.io/badge/Group_Policy-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" height="40" />
+<img src="https://img.shields.io/badge/DNS_Server-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" height="40" />
+<img src="https://img.shields.io/badge/DHCP_Server-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" height="40" />
+
+<!-- Security -->
+<img src="https://img.shields.io/badge/Cyber_Security-000000?style=for-the-badge&logo=hackthebox&logoColor=9FEF00" height="40" />
+<img src="https://img.shields.io/badge/Firewall-D32F2F?style=for-the-badge&logoColor=white" height="40" />
+<img src="https://img.shields.io/badge/SIEM-37474F?style=for-the-badge&logoColor=white" height="40" />
+<img src="https://img.shields.io/badge/IDS-5D4037?style=for-the-badge&logoColor=white" height="40" />
+<img src="https://img.shields.io/badge/IPS-6D4C41?style=for-the-badge&logoColor=white" height="40" />
+<img src="https://img.shields.io/badge/Penetration_Testing-B71C1C?style=for-the-badge&logoColor=white" height="40" />
 
 
 
