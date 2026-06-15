@@ -36,41 +36,27 @@
 
 ###
 
-<h3 align="left">Skills :</h3>
-
-###
+<h3 align="left">📚 Skills & Technologies</h3>
 
 <div align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="40" alt="python logo"  />
-  
-  <img src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white&style=for-the-badge" height="40" alt="django logo"  />
-  
-  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" height="40" alt="mysql logo"  />
-  
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge" height="40" alt="postgresql logo"  />
- 
-  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" height="40" alt="git logo"  />
-  
-  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" height="40" alt="html5 logo"  />
-  
-  <img src="https://img.shields.io/badge/CSS-1572B6?logo=css&logoColor=white&style=for-the-badge" height="40" alt="css logo"  />
-  
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="40" alt="javascript logo"  />
-  
-  <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?logo=tailwindcss&logoColor=black&style=for-the-badge" height="40" alt="tailwindcss logo"  />
-  
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=for-the-badge" height="40" alt="bootstrap logo"  />
-  
-  <img src="https://img.shields.io/badge/Sass-CC6699?logo=sass&logoColor=black&style=for-the-badge" height="40" alt="sass logo"  />
- 
-  <img src="https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=white&style=for-the-badge" height="40" alt="jquery logo"  />
 
+### 💻 Programming & Web Development
+<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="40" alt="python logo" />
+<img src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white&style=for-the-badge" height="40" alt="django logo" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="40" alt="javascript logo" />
+<img src="https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=white&style=for-the-badge" height="40" alt="jquery logo" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" height="40" alt="html5 logo" />
+<img src="https://img.shields.io/badge/CSS-1572B6?logo=css&logoColor=white&style=for-the-badge" height="40" alt="css logo" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwindcss&logoColor=black&style=for-the-badge" height="40" alt="tailwindcss logo" />
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=for-the-badge" height="40" alt="bootstrap logo" />
+<img src="https://img.shields.io/badge/Sass-CC6699?logo=sass&logoColor=black&style=for-the-badge" height="40" alt="sass logo" />
+<img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" height="40" alt="git logo" />
 
+### 🗄️ Databases
+<img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" height="40" alt="mysql logo" />
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge" height="40" alt="postgresql logo" />
 
-
-
-
-<!-- Networking -->
+### 🌐 Networking & Protocols
 <img src="https://img.shields.io/badge/Networking-0078D4?style=for-the-badge&logo=cisco&logoColor=white" height="40" />
 <img src="https://img.shields.io/badge/TCP%2FIP-00599C?style=for-the-badge&logoColor=white" height="40" />
 <img src="https://img.shields.io/badge/IPv4-1976D2?style=for-the-badge&logoColor=white" height="40" />
@@ -88,50 +74,43 @@
 <img src="https://img.shields.io/badge/DNS-4285F4?style=for-the-badge&logoColor=white" height="40" />
 <img src="https://img.shields.io/badge/VPN-283593?style=for-the-badge&logoColor=white" height="40" />
 
-
+### 🏅 Certifications & Vendors
 <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" height="40" />
 <img src="https://img.shields.io/badge/CCNA-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" height="40" />
-
-<!-- CompTIA -->
 <img src="https://img.shields.io/badge/Network%2B-EA3E23?style=for-the-badge&logo=comptia&logoColor=white" height="40" />
 <img src="https://img.shields.io/badge/Security%2B-EA3E23?style=for-the-badge&logo=comptia&logoColor=white" height="40" />
 
-<!-- Tools -->
+### 🔍 Network Analysis & Tools
 <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" height="40" />
 <img src="https://img.shields.io/badge/Nmap-004170?style=for-the-badge&logoColor=white" height="40" />
 <img src="https://img.shields.io/badge/Tcpdump-000000?style=for-the-badge&logoColor=white" height="40" />
 
-
-<!-- Virtualization -->
+### 🖥️ Virtualization & Lab Environments
 <img src="https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white" height="40" />
 <img src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white" height="40" />
 <img src="https://img.shields.io/badge/Hyper--V-0078D7?style=for-the-badge&logo=microsoft&logoColor=white" height="40" />
-
-<!-- Labs -->
 <img src="https://img.shields.io/badge/GNS3-2C5AA0?style=for-the-badge&logoColor=white" height="40" />
 <img src="https://img.shields.io/badge/Packet_Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" height="40" />
 
-<!-- Operating Systems -->
+### 🐧 Operating Systems
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" height="40" />
 <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" height="40" />
 <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" height="40" />
 <img src="https://img.shields.io/badge/Windows_Server-0078D4?style=for-the-badge&logo=windows&logoColor=white" height="40" />
 
-<!-- Microsoft -->
+### 🏢 Microsoft Services
 <img src="https://img.shields.io/badge/Active_Directory-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" height="40" />
 <img src="https://img.shields.io/badge/Group_Policy-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" height="40" />
 <img src="https://img.shields.io/badge/DNS_Server-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" height="40" />
 <img src="https://img.shields.io/badge/DHCP_Server-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" height="40" />
 
-<!-- Security -->
+### 🔒 Cybersecurity
 <img src="https://img.shields.io/badge/Cyber_Security-000000?style=for-the-badge&logo=hackthebox&logoColor=9FEF00" height="40" />
 <img src="https://img.shields.io/badge/Firewall-D32F2F?style=for-the-badge&logoColor=white" height="40" />
 <img src="https://img.shields.io/badge/SIEM-37474F?style=for-the-badge&logoColor=white" height="40" />
 <img src="https://img.shields.io/badge/IDS-5D4037?style=for-the-badge&logoColor=white" height="40" />
 <img src="https://img.shields.io/badge/IPS-6D4C41?style=for-the-badge&logoColor=white" height="40" />
 <img src="https://img.shields.io/badge/Penetration_Testing-B71C1C?style=for-the-badge&logoColor=white" height="40" />
-
-
 
 </div>
 
