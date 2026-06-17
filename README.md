@@ -85,7 +85,7 @@
 <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" height="40" />
 <img src="https://img.shields.io/badge/Nmap-004170?style=for-the-badge&logoColor=white" height="40" />
 <img src="https://img.shields.io/badge/Tcpdump-000000?style=for-the-badge&logoColor=white" height="40" />
-<img src="https://img.shields.io/badge/Cisco_Packet_Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" height="40" />
+
 
 ### 🖥️ Virtualization & Lab Environments
 <img src="https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white" height="40" />
